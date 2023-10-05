@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Gaurav Chakraborty
+My Name is Gaurav Chakraborty, a Full-Stack Developer.
 <!--
 **gauravchakrxborty/gauravchakrxborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
